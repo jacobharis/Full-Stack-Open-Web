@@ -3629,6 +3629,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@sanity/icons@npm:^3.4.0":
+  version: 3.4.0
+  resolution: "@sanity/icons@npm:3.4.0"
+  peerDependencies:
+    react: ^18.3 || >=19.0.0-rc
+  checksum: 10c0/9cf782537c3e9789fb4f76e872db03c21f0727623fa13447d26554a964d282224c63afdc91cd23bed72e8f2481a01ad798496dd64a0082482bddbb6a0366edf8
+  languageName: node
+  linkType: hard
+
 "@sanity/image-url@npm:^1.0.2":
   version: 1.0.2
   resolution: "@sanity/image-url@npm:1.0.2"
@@ -10126,7 +10135,7 @@ __metadata:
     "@commitlint/config-conventional": "npm:^19.2.2"
     "@ducanh2912/next-pwa": "npm:^10.2.7"
     "@headlessui/react": "npm:^2.1.1"
-    "@sanity/icons": "npm:^3.2.0"
+    "@sanity/icons": "npm:^3.4.0"
     "@sanity/image-url": "npm:^1.0.2"
     "@sanity/types": "npm:^3.49.0"
     "@sanity/ui": "npm:^2.6.1"
